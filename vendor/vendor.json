@@ -1,0 +1,15 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"path": "github.com/ethereum/go-ethereum",
+			"revision": ""
+		},
+		{
+			"path": "https://github.com/ethereum/go-ethereum.git",
+			"revision": ""
+		}
+	],
+	"rootPath": "SmartContract"
+}
